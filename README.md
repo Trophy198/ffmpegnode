@@ -63,3 +63,4 @@ fetch('http://localhost:8080/process-video', {
 - `uploads/` 및 `edit/` 디렉토리가 존재하지 않는 경우, 서버가 자동으로 생성
 - 서버가 실행되기 전에 필요한 의존성을 모두 설치하고, FFmpeg 바이너리가 제대로 설정되어 있는지 확인
 - 프론트 실행 포트 3000, 백엔드 실행 포트 8080
+- [관련 블로그 포스팅](https://trophyjourney.tistory.com/31)
