@@ -64,3 +64,4 @@ fetch('http://localhost:8080/process-video', {
 - 서버가 실행되기 전에 필요한 의존성을 모두 설치하고, FFmpeg 바이너리가 제대로 설정되어 있는지 확인
 - 프론트 실행 포트 3000, 백엔드 실행 포트 8080
 - [관련 블로그 포스팅](https://trophyjourney.tistory.com/31)
+- [FFMPEG 관련 명령어](https://destiny-leader-25c.notion.site/FFMPEG-10b2a5ce9a4180ac8221f25993a8eb88?pvs=4)
