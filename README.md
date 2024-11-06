@@ -65,3 +65,4 @@ fetch('http://localhost:8080/process-video', {
 - 프론트 실행 포트 3000, 백엔드 실행 포트 8080
 - [관련 블로그 포스팅](https://trophyjourney.tistory.com/31)
 - [FFMPEG 관련 명령어](https://destiny-leader-25c.notion.site/FFMPEG-10b2a5ce9a4180ac8221f25993a8eb88?pvs=4)
+- [FFMPEG 비디오 코덱 관련 정리](https://destiny-leader-25c.notion.site/FFMPEG-WebM-1362a5ce9a4180da9dade17189c6ea80?pvs=4)
